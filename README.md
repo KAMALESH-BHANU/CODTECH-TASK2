@@ -63,16 +63,22 @@ The user is prompted to enter the target IP address or hostname to scan.
 The tool scans a set of common ports on the target to identify which ones are open.
 
 > Software Version Checking:
-> 
+
 The tool checks the versions of predefined software on the target and reports whether they are up-to-date.
 
 Benefits
 
-> Security Awareness: Helps users identify open ports and outdated software that could be potential security risks.
+> Security Awareness:
 
-> Proactive Measures: Encourages users to update their software and close unnecessary open ports to improve security.
+Helps users identify open ports and outdated software that could be potential security risks.
 
-> Foundational Tool: Provides a basis for further development and extension to include more comprehensive vulnerability checks.
+> Proactive Measures:
+
+Encourages users to update their software and close unnecessary open ports to improve security.
+
+> Foundational Tool:
+
+ Provides a basis for further development and extension to include more comprehensive vulnerability checks.
 
 Conclusion
 
