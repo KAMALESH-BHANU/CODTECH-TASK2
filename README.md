@@ -16,7 +16,7 @@ Project : Simple Network Vulnerability Scanner
 
 Objective
 
-The Simple Vulnerability Scanning Tool project is a Java-based application designed to assess the security of a network or website by scanning for common vulnerabilities. The tool focuses on identifying open ports, detecting outdated software versions, and checking for basic misconfigurations. This project aims to provide a basic yet functional security assessment tool that helps users identify potential security weaknesses and take necessary actions to mitigate them.
+The Simple Vulnerability Scanning Tool project is designed to assess the security of a network or website by scanning for common vulnerabilities. The tool focuses on identifying open ports, detecting outdated software versions, and checking for basic misconfigurations. This project aims to provide a basic yet functional security assessment tool that helps users identify potential security weaknesses and take necessary actions to mitigate them.
 
 Key Features
 
